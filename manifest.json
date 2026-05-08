@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "Byron",
+  "repo": "open-rs",
+  "versions": [
+    {
+      "commit": "7bd519c778eda8efe84137e61c35eaff95102d41",
+      "parsed_at": "2026-05-08T02:43:28.986168+00:00",
+      "tag": "v5.3.4",
+      "filetree": "filetree/7bd519c778eda8efe84137e61c35eaff95102d41.nq.gz",
+      "blobs": [
+        "blob/0e1fdb79d8e8908188d5f45acf795ec654fc3e27.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/685c783502b0b0b490fbb83781275932682927ef.nq.gz",
+        "blob/2fbcd138d3e2bd3df733ac61eba7ab0e59f62fc1.nq.gz",
+        "blob/05582228484a3912617b10672289c173920e4d3c.nq.gz",
+        "blob/d1accaff0cdaa5321177d090dd1f212e6f4789cf.nq.gz",
+        "blob/a48a43b0691e5ddaa61d959a5353a4873d8f6f7d.nq.gz",
+        "blob/17daa1e3b39831093699020febfe1411247fa519.nq.gz",
+        "blob/d8d08cef16c1c8f54562dc585d8fa52b8143c939.nq.gz",
+        "blob/245f2dba0181db7bd170653d62a60a8a228a26fb.nq.gz",
+        "blob/187eb457d635d0dd90e898a17da438554691b5a1.nq.gz",
+        "blob/e1d78f1dc46a97b696a3e5ed1a665a45be7a54bf.nq.gz",
+        "blob/9c58159ab84600d978a0902280d77a3e720ab3a2.nq.gz",
+        "blob/d9c7cb1845946ae521752dfece2800c88e3703b2.nq.gz",
+        "blob/1a3e0176fd4c6816de88fc0939cad6d677cdb757.nq.gz",
+        "blob/6033d64c394005060cba798e63dde7d3119347ce.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
