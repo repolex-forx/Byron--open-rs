@@ -1,0 +1,7 @@
+[2026-09-15T00:30:13Z] === AST ITERATION 1 START | repo=Byron/open-rs sha=3cf72fd4 ===
+[2026-09-15T00:30:13Z] [iter=1] PHASE START: ast repo=Byron/open-rs sha=3cf72fd4
+[2026-09-15T00:30:13Z] [iter=1] Building AST aggregate chunks
+[2026-09-15T00:30:15Z] [iter=1] AST chunks built count=1 triples=25208
+[2026-09-15T00:30:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3cf72fd426442ed856f1b9cddea61b5413299c45/.complete
+[2026-09-15T00:30:15Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-09-15T00:30:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
